@@ -73,5 +73,3 @@ Your final prediction file must adhere to the following structure:
 | :---- | :---- |
 | Id | 1461 |
 | SalePrice | 169000.1 |
-
-**Note on Leaderboards:** This is a "Getting Started" competition. The Public Leaderboard score is based on 50% of the test data, and the Private Leaderboard (the final score) will not be revealed, allowing participants to focus solely on learning and skill development without the pressure of rank-chasing.
