@@ -27,7 +27,7 @@ The primary objective is to predict the continuous numerical value of the SalePr
 
 Submissions are evaluated based on the **Root-Mean-Squared-Error (RMSE)** between the **logarithm of the predicted price** and the **logarithm of the observed sales price**.
 
-![][image1]Why Log Transformation?  
+Why Log Transformation?  
 Taking the logarithm ensures that errors in predicting very expensive houses and very cheap houses affect the final score equally, preventing the model from being overly biased towards large absolute errors in high-priced homes.
 
 ## **🛠️ Techniques and Focus Areas**
