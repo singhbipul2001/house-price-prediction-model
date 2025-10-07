@@ -6,7 +6,7 @@ This project is a solution attempt for the Kaggle "House Prices \- Advanced Regr
 
 The dataset is notable for its complexity, providing **79 explanatory variables** that describe nearly every aspect of the homes, requiring significant effort in data cleaning, feature engineering, and model selection.
 
-## **📊 Dataset and Features**
+## ** Dataset and Features**
 
 The dataset, originally compiled by Dean De Cock (Ames Housing dataset), serves as a modern alternative to the classic Boston Housing dataset.
 
@@ -59,7 +59,7 @@ house\_price\_prediction/
 │   └── sample\_submission.csv        \# Example submission file.  
 └── README.md
 
-## **🚀 Getting Started (Setup)**
+## ** Getting Started (Setup)**
 
 To replicate the environment and run the notebooks, please install the required dependencies:
 
