@@ -59,7 +59,7 @@ house\_price\_prediction/
 │   └── sample\_submission.csv        \# Example submission file.  
 └── README.md
 
-## ** Getting Started (Setup)**
+## **Getting Started (Setup)**
 
 To replicate the environment and run the notebooks, please install the required dependencies:
 
